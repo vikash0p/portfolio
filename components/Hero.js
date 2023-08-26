@@ -98,7 +98,9 @@ const Hero = () => {
           {
             social.map((value, index) => {
               return (
-                <a key={index} href={value.href} target='_blank' >
+                <a key={index} href={value.href}
+                 target='_blank'
+                  aria-label="Read more about the portfolio links" >
                   <h4 className='p-3 text-white transition-colors duration-300 border rounded-full border-gray hover:border-blue-600 hover:text-blue-600 '>{value.icon} </h4>
                 </a>
               )
@@ -124,6 +126,7 @@ const Hero = () => {
             priority={true}
             width={300}
             height={300}
+            // quality={60}
           />
         </motion.div>
 

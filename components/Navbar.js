@@ -41,8 +41,11 @@ const Navbar = () => {
     <nav className=" p-4 sticky top-0 ">
       <div className="lg:flex ">
         <div className='flex justify-between w-full'>
-          <div className=" font-semibold border border-blue-400  text-xl"><span className='bg-blue-400  px-2'>Vik</span>ash</div>
+          <div className="  border border-blue-600  text-xl "><span className='bg-blue-600 px-2'>Vik</span>ash</div>
           <button
+          type='button'
+          role='button'
+            aria-labelledby="navigation"
             onClick={toggleMenu}
             className="block lg:hidden text-white focus:outline-none"
           >

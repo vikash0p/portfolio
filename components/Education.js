@@ -44,7 +44,7 @@ const Education = () => {
                 }}
               >
                 <h3 className="flex items-center mb-1 text-lg font-semibold text-white ">BCA</h3>
-                <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ university</time>
+                <h4 className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ university</h4>
                 <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages.</p>
 
               </motion.div>
@@ -66,7 +66,7 @@ const Education = () => {
                 }}
               >
                 <h3 className="mb-1 text-lg font-semibold  text-white">senior secondary school</h3>
-                <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ School</time>
+                <h4 className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ School</h4>
                 <p className="text-base font-normal text-gray-500 dark:text-gray-400">All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.</p>
               </motion.div>
             </li>
@@ -85,7 +85,7 @@ const Education = () => {
                   amount: 0.6
                 }}>
                 <h3 className="mb-1 text-lg font-semibold text-white">secondary school</h3>
-                <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ School</time>
+                <h4 className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ School</h4>
                 <p className="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements built on top of Tailwind CSS.</p>
               </motion.div>
             </li>
@@ -122,7 +122,7 @@ const Education = () => {
                   amount: 0.6
                 }}>
                 <h3 className="flex items-center mb-1 text-lg font-semibold text-white ">frontend developer</h3>
-                <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ company</time>
+                <h4 className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ company</h4>
                 <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages.</p>
 
               </motion.div>
@@ -142,7 +142,7 @@ const Education = () => {
                   amount: 0.6
                 }}>
                 <h3 className="mb-1 text-lg font-semibold  text-white">frontend developer</h3>
-                <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ Company</time>
+                <h4 className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ Company</h4>
                 <p className="text-base font-normal text-gray-500 dark:text-gray-400">All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.</p>
               </motion.div>
             </li>
@@ -161,7 +161,7 @@ const Education = () => {
                   amount: 0.6
                 }}>
                 <h3 className="mb-1 text-lg font-semibold text-white">Frontend developer</h3>
-                <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ Companay</time>
+                <h4 className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">XYZ Companay</h4>
                 <p className="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements built on top of Tailwind CSS.</p>
               </motion.div>
             </li>
