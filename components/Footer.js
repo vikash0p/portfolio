@@ -8,7 +8,9 @@ const Footer = () => {
           &copy; {new Date().getFullYear()} <span className='text-blue-400'>Vikash</span>. All rights reserved.
         </p>
       </div>
+      
     </footer>
+
   )
 }
 
