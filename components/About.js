@@ -28,7 +28,7 @@ const About = () => {
           }}
         >
           <Image
-            src={"/vikash.png"}
+            src={"/vikash.jpg"}
             alt='profile image'
             className='w-52 h-52 rounded-full object-contain  '
             sizes="208px"

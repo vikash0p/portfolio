@@ -119,9 +119,9 @@ const Hero = () => {
           }}
          >
           <Image
-            src={"/vikash.png"}
+            src={"/vikash.jpg"}
             alt='profile image'
-            className='w-96 h-96 rounded-full object-contain hidden lg:block'
+            className='w-96 h-96 rounded-full object-contain hidden lg:block '
             sizes='400px'
             priority={true}
             width={300}
